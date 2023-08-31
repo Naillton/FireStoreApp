@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20176156752",
+    "project_id": "firestoreapp-2c61f",
+    "storage_bucket": "firestoreapp-2c61f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20176156752:android:6bcc85eb52ce8b4c1ff955",
+        "android_client_info": {
+          "package_name": "com.nailton.firestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20176156752-pm1n8t5gi4pqdt2uujprd24bv5v0o7qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQmk5SORQknPfg-Ya-FYxG5tnodObNW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20176156752-pm1n8t5gi4pqdt2uujprd24bv5v0o7qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

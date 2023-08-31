@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FireStoreApp</string>
+    <string name="firestore">FireStore</string>
+</resources>
